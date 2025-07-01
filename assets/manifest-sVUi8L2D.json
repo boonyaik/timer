@@ -8,12 +8,12 @@
   "theme_color": "#4f46e5",
   "icons": [
     {
-      "src": "/timer/vite.svg",
+      "src": "/timer/timer192.png",
       "sizes": "192x192",
       "type": "image/svg+xml"
     },
     {
-      "src": "/timer/vite.svg",
+      "src": "/timer/timer512.png",
       "sizes": "512x512",
       "type": "image/svg+xml"
     }

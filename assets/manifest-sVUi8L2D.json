@@ -2,7 +2,7 @@
   "name": "Okiyome Timer",
   "short_name": "Okiyome Timer",
   "description": "A progressive web app.",
-  "start_url": "./",
+  "start_url": "https://boonyaik.github.io/timer/",
   "display": "standalone",
   "background_color": "#111827",
   "theme_color": "#4f46e5",
